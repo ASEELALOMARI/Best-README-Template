@@ -113,7 +113,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Flask][flask.palletsprojects.com][Flask-url]
-* [![Docker][www.docker.com][Docker-url]
+* [![Docker][docker.com][Docker-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
